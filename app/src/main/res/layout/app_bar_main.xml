@@ -13,9 +13,15 @@
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
+
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
+
+            android:textAlignment="center"
+            android:gravity="center"
+
+            app:titleTextColor="@color/texto2"
+            android:background="@color/fondo7"
             app:popupTheme="@style/Theme.Museo2021.PopupOverlay" />
 
     </com.google.android.material.appbar.AppBarLayout>

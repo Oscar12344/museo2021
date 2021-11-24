@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fondo7"
+    android:orientation="vertical"
+    tools:context=".ActivitySplash">
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="RED DE NEGOCIOS Y LOGÍSTICA"
+        android:textColor="@color/texto3"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:visibility="visible"
+        android:layout_marginBottom="130dp"></TextView>
+
+    <ImageView
+        android:visibility="visible"
+        android:id="@+id/image_museo"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:src="@drawable/icono"></ImageView>
+
+    <TextView
+        android:visibility="visible"
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="!Tu mejor opción en paquetería y distribución de productos¡"
+        android:textColor="@color/texto3"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_marginTop="130dp"></TextView>
+</FrameLayout>

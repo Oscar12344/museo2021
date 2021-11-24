@@ -8,4 +8,24 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorfondo">#EAD863</color>
+    <color name="fondo1">#ffebee</color>
+    <color name="fondo2">#ffffff</color>
+    <color name="fondo3">#ccb9bc</color>
+    <color name="texto1">#000000</color>
+    <color name="texto2">#ff9100</color>
+    <color name="fondo4">#ffc246</color>
+    <color name="texto3">#c56200</color>
+    <color name="fondo5">#ffea00</color>
+    <color name="fondo6">#ffff56</color>
+    <color name="texto4">#c7b800</color>
+    <color name="fondo7">#c6ff00</color>
+    <color name="fondo8">#fdff58</color>
+    <color name="texto5">#90cc00</color>
+    <color name="texto6">#76ff03</color>
+    <color name="fondo9">#b0ff57</color>
+    <color name="texto7">#32cb00</color>
+    <color name="fondo10">#d7ccc8</color>
+    <color name="fondo11">#fffffb</color>
+    <color name="fondo12">#a69b97</color>
+
 </resources>
