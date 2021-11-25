@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781854540520",
+    "project_id": "museo-d6b7e",
+    "storage_bucket": "museo-d6b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781854540520:android:fe83eadfba1f9cd3c97f5d",
+        "android_client_info": {
+          "package_name": "com.example.museo2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781854540520-c6oiesgsc38j4mt6g8l1mvue2sbdg9vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.museo2021",
+            "certificate_hash": "0e775298ee8f4a36e708f543ad761980bbf49f34"
+          }
+        },
+        {
+          "client_id": "781854540520-rfaumf2h5ude66kke8v9p0v1fvkla0t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBewU26gAdz9axXo6mwxS9hPo_RnoX0-aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781854540520-rfaumf2h5ude66kke8v9p0v1fvkla0t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
